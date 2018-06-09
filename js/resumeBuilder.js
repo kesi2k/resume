@@ -58,7 +58,15 @@
 
  var work = {
 
- 		jobs:[{
+ 		jobs:[
+ 			{
+ 			employer:'Senegal Software',
+ 			title:'Developer',
+ 			location:'Atlanta, Georgia',
+ 			dates:' March 2017 - Present',
+ 			description:''},
+ 			
+ 			{
  			employer:'Bree and Associates',
  			title:'Project Engineer',
  			location:'Durham, North Carolina',
@@ -106,9 +114,9 @@
 	 			},
 	 			{
 	 			title:'Tic-tac-toe',
-	 			description:'A game of Tic-tac-toe versus the browser. ',
+	 			description:'A game of Tic-tac-toe versus the browser. This project uses the react library. ',
 	 			images:'http://codepen.io/Kesi2k/pen/NNyPje/image/large.png',
-	 			url:'http://kesi2k.github.io/Tic-tac-toe'
+	 			url:'https://safe-reef-45769.herokuapp.com/'
 	 			},
 	 			{
 	 			title:'Simon game',
